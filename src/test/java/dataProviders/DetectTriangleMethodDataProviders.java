@@ -80,5 +80,4 @@ public class DetectTriangleMethodDataProviders {
                 {'a', 'a', 'a'}
         };
     }
-
 }

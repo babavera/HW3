@@ -17,4 +17,5 @@ public class GetSquareMethodTest {
     public  void testGetSquareMethodFalseValue(double a, double b, double c){
         Triangle tr = new Triangle(a, b, c);
         Assert.assertFalse(tr.getSquare()>0 || tr.getSquare()<=0, "ошибка приложения, не является треугольником");}
+
 }

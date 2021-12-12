@@ -21,7 +21,6 @@ public class GetSquareMethodDataProvider {
                 {3, -4, 5},
                 {'5', '5', '5'},
                 {0, 0, 0}
-
         };
     }
 }

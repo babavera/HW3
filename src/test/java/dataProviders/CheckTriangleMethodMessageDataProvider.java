@@ -26,4 +26,5 @@ public class CheckTriangleMethodMessageDataProvider {
                 {-5.0, -2.0, 2.0, "b+c<=a"},
         };
     }
+
 }

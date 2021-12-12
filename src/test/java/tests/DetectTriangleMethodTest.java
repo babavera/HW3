@@ -46,5 +46,4 @@ public class DetectTriangleMethodTest {
     public  void testEquilateralTriangleFalseValue(int a, int b, int c){
         Triangle tr = new Triangle(a, b, c);
         Assert.assertFalse(tr.detectTriangle() <= 0 || tr.detectTriangle() > 0, "Ошибка приложения, не является треугольником");}
-
 }

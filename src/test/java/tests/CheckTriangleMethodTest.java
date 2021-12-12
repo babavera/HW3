@@ -46,4 +46,5 @@ public class CheckTriangleMethodTest {
     public  void testCharValue(double a, int b, int c){
         Triangle tr = new Triangle(a, b, c);
         Assert.assertFalse(tr.checkTriangle(), "ошибка приложения, не является треугольником");}
+
 }

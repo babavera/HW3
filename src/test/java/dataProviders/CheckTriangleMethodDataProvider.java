@@ -80,4 +80,5 @@ public class CheckTriangleMethodDataProvider {
                 {'f', 'g', 'g'},
         };
     }
+
 }
