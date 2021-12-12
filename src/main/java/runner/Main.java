@@ -11,6 +11,8 @@ public class Main {
 		System.out.println(tr.checkTriangle());
 		System.out.println(tr.getMessage());
 		System.out.println(tr.detectTriangle());
+		System.out.println(tr.getSquare());
+
 	}
 
 }
